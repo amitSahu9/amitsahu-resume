@@ -122,20 +122,17 @@ class Contact extends Component {
                 <ul id="twitter">
                   <li>
                     <span>
-                      This is a personal resume showcase project made out of self interest, and curiosity.
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      
                     </span>
-                    <b>
-                      <a href="./">2 Days Ago</a>
-                    </b>
+               
                   </li>
                   <li>
                     <span>
-                      Sed ut perspiciatis unde omnis iste natus error sit
+                      {/* Sed ut perspiciatis unde omnis iste natus error sit
                       voluptatem accusantium doloremque laudantium, totam rem
                       aperiam, eaque ipsa quae ab illo inventore veritatis et
                       quasi
-                      <a href="./">http://t.co/CGIrdxIlI3</a>
+                      <a href="./">http://t.co/CGIrdxIlI3</a> */}
                     </span>
                     <b>
                       <a href="./">3 Days Ago</a>
