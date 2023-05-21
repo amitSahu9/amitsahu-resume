@@ -4,7 +4,7 @@
     "description":"I am a Software Engineer and I use C# to develop desktop applications, Python Flask frame work and JAVA Spring boot for making rest APIS and little bit of front-end using React.",
     "image":"profilepic.jpg",
     "bio":"Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Backend technologies like  Java, Spring Framework, and Python Flask framework, also worked in the front end with React and Next.js. Worked on other necessary tools like Powershell, C#, Cascading Style Sheets (CSS), and MySQL, PostGreSQL. Strong engineering professional with a Bachelor of Technology - BTech focused in Electrical and Electronics Engineering from Biju Patnaik University of Technology, Odisha.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Get in touch -",
     "email": "sahu.amit85@gmail.com",
     "phone": "+91-9658610885",
     "github":"https://github.com/amitSahu9",
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Skill levels - ",
     "education":[
       {
         "school":"Gandhi Institute For Technological Advancement",
